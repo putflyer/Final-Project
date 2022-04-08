@@ -4,7 +4,7 @@ Final project for big ideas 0010
 
 Group Food
 
-Members: Ryan Watkins and https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
+Members: Ryan Watkins and Vishal Menon
 
 
 The project is essentially to pick the best neighborhood in Pittsburgh based on a series of metrics. The metrics are decided by us, and are backed up by the datasets linked below
