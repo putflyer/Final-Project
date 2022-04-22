@@ -11,6 +11,6 @@ The project is essentially to pick the best neighborhood in Pittsburgh based on 
 
 Fast food establishments: https://data.wprdc.org/dataset/allegheny-county-fast-food
 
-City Parks: https://data.wprdc.org/dataset/parks
+Households: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-data-household-types/resource/74deca7d-b398-4137-83d7-553a7162f464
 
-Bicycle On-Road Painting: https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings
+Traffic Survey: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
