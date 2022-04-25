@@ -7,7 +7,7 @@ Group Food
 Members: Ryan Watkins and Vishal Menon
 
 
-The project is essentially to pick the best neighborhood in Pittsburgh based on a series of metrics. The metrics are decided by us, and are backed up by the datasets linked below
+The project is essentially to pick the best neighborhood in Pittsburgh based on a series of metrics. The metrics are decided by us, and are backed up by the datasets linked below. We decided we wanted to pick the best neighborhood from the perspective of a doordash or uber eat delivery driver. 
 
 Vishal Menon Fast food establishments: https://data.wprdc.org/dataset/allegheny-county-fast-food
 
